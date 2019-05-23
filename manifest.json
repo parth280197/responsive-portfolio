@@ -7,9 +7,9 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "/",
+  "start_url": "/sd140portfolio/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/sd140portfolio/",
   "theme_color": "#3367D6"
 }
