@@ -1,13 +1,13 @@
-const currentCache = "portfolio-cache-v0";
+const currentCache = "portfolio-cache-v1";
 const itemsToCache = [
-  '/banner.png',
-  '/C.png',
-  '/css.png',
+  'banner.png',
+  'C.png',
+  'css.png',
   'fun-icon.png',
-  '/html.png',
-  '/index.html',
-  '/Java.png',
-  '/logo.png',
+  'html.png',
+  'index.html',
+  'Java.png',
+  'logo.png',
   'style.css',
   'sw-init.js',
   'manifest.json'
