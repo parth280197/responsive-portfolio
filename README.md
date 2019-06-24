@@ -10,8 +10,8 @@
 ## Screen Shots
 1. Full screen view
 
-  ![Full screen](main.JPG)
+  ![Full screen](./responsive-portfolio/main.JPG)
 
 2. Mobile screen view
 
-  ![Full screen](/responsive-portfolio/mobile-view.JPG)
+  ![Full screen](./responsive-portfolio/mobile-view.JPG)
